@@ -6,7 +6,7 @@
 <h3 align="center">⚡ Full-Stack Engineer • Systems Thinker • Product Builder</h3>
 
 <p align="center">
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/Beemhuse">
     <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
   <img src="https://img.shields.io/github/followers/your-username?label=Followers&style=social" />
@@ -108,11 +108,11 @@ const bright = {
 ## 📊 Engineering Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?Beemhuse=Beemhuse&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Beemhuse&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -128,9 +128,9 @@ const bright = {
 
 ## 🌍 Let’s Connect
 
-* 💼 LinkedIn: https://linkedin.com/in/your-link
-* 🐦 Twitter: https://twitter.com/your-handle
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 💼 LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/bright-awah-59b707223/)
+* 🐦 Twitter: https://twitter.com/D3_lores
+* 📧 Email: [brightawah94@gmail.com](mailto:brightawah94@gmail.com)
 
 ---
 
