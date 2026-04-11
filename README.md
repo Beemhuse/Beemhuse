@@ -9,7 +9,7 @@
   <a href="https://github.com/Beemhuse">
     <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
-  <img src="https://img.shields.io/github/followers/your-username?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/followers/Beemhuse?label=Followers&style=social" />
 </p>
 
 ---
